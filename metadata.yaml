@@ -1,0 +1,41 @@
+_repo: Stories-and-folk-lore-of-West-Cornwall-Third-Series_75799
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Blight, Joseph
+    gutenberg_agent_id: '58152'
+    url: http://www.gutenberg.org/2009/agents/58152
+creator:
+  author:
+    agent_name: Bottrell, William
+    birthdate: 1816
+    deathdate: 1881
+    gutenberg_agent_id: '41349'
+    url: http://www.gutenberg.org/2009/agents/41349
+    wikipedia: https://en.wikipedia.org/wiki/William_Bottrell
+description: ''
+gutenberg_issued: '2025-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75799'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924029890559/page/n3/mode/2up
+pgterms:marc905: 20200505075513bottrell
+pgterms:marc906: '1880'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by Cornell University Digital Collections)
+publication_note: '  $aPenzance :$bPrinted for the Author by F. Rodda, $c1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- England -- Cornwall (County)'
+- !lcsh 'Folklore -- England -- Cornwall (County)'
+- !lcsh 'Fairy tales -- England -- Cornwall (County)'
+- !lcsh 'Cornish language -- Dictionaries -- English'
+- !lcc 'GR'
+- GITenberg
+title: Stories and folk-lore of West Cornwall. Third Series
+url: http://www.gutenberg.org/ebooks/75799
