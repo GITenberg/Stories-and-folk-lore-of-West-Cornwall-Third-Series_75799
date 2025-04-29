@@ -5,6 +5,9 @@ contributor:
     agent_name: Blight, Joseph
     gutenberg_agent_id: '58152'
     url: http://www.gutenberg.org/2009/agents/58152
+covers:
+- cover_type: archival
+  image_path: 75799-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Bottrell, William
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41349
     wikipedia: https://en.wikipedia.org/wiki/William_Bottrell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75799#Stories-and-folk-lore-of-West-Cornwall-Third-Series
 gutenberg_issued: '2025-04-05'
 gutenberg_type: Text
 identifiers:
